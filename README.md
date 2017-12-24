@@ -1,2 +1,2 @@
-# nb-1-starter
-Starter repo for notebook set 1
+# Notebook Set 1
+In this notebook set, you'll get familiar with the basics of Python.
